@@ -1,1 +1,1 @@
-DELETE FROM northwind.order_details;
+DELETE FROM order_details;
